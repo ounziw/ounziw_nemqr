@@ -25,3 +25,14 @@ concrete5 8.3.2以降
 ## ライセンス
 
 MIT
+
+## サンプルQRコード
+
+![1xem](https://github.com/ounziw/ounziw_nemqr/blob/master/1xem.png)
+
+## サンプルQRコードのデータ
+
+NBZIB7-E7Z7WJ-T67PQM-HGBOK6-L7OQER-NMDQDB-IOHR
+1000000
+thankyou
+ounziw_nemqr
